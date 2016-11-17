@@ -11,9 +11,6 @@
     "vmSize": {
       "value": "Standard_DS1_v2"
     },
-      "moodleVersion": {
-          "value": "MOODLE_30_STABLE"
-      },
       "mySQLuserPassword": {
           "value": "Ead2016@admin"
       },
@@ -21,7 +18,7 @@
           "value": "Ead2016@admin"
       },
       "resourcesPrefix": {
-          "value": "azmoodhom"
+          "value": "azwpprod"
       }
   }
 }
